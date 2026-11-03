@@ -1,4 +1,0 @@
-Left click to open up "Pet menu"
-Feel free to add your own notes and images in "Petnotes" and "Petimages".
-Exe is in the project folder.
- 
